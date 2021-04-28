@@ -1,6 +1,6 @@
 # Exercise: CRUDdy Todo #
 
-> This was a sprint assigned when attending Hack Reactor. 
+> This was a sprint assigned to me as a student when attending Hack Reactor. 
 
 You are starting with a working Todo list app, but the todo items are stored in memory, so these items get erased each time the server restarts. Your goal is to rewrite the storage layer so that information is saved and loaded to/from the hard drive. To do this, you'll need to make use of callbacks using a callback pattern called ___[continuation-passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)___. Additionally, you must follow the [error first callback pattern](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/) that is widely adopted by the nodejs community.
 
